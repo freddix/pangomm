@@ -3,7 +3,7 @@
 Summary:	A C++ interface for pango library
 Name:		pangomm
 Version:	2.34.0
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Libraries
 Source0:	ftp://ftp.gnome.org/pub/GNOME/sources/pangomm/2.34/%{name}-%{version}.tar.xz
